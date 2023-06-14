@@ -1,6 +1,7 @@
 # MineSweeper
 該專案為透過C#所撰寫之踩地雷遊戲
 ![image](https://github.com/Majjor140/PacMan/assets/117829042/0ca74622-650a-4bbf-95b3-106e28ac1dcb)
+
 遊玩流程
 1.首先先選擇要生成的地圖大小及炸彈數量
 2.生成完成後，點選任一格即可開始踩地雷遊戲
