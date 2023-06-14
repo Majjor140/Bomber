@@ -1,7 +1,7 @@
 # MineSweeper
 該專案為透過C#所撰寫之踩地雷遊戲
 
-![image](https://github.com/Majjor140/MineSweeper/assets/117829042/d55e1f04-7805-487c-b54f-86ca1ea01188)
+![Uploading image.png…]()
 
 
 遊玩流程
