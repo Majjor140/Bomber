@@ -12,3 +12,5 @@
 3.對格子點選右鍵可以標記，協助玩家破關
 
 4.採到炸彈後及結束遊戲
+
+![image](https://github.com/Majjor140/MineSweeper/assets/117829042/bcc8b973-dc93-4dff-9d60-41b98cde8d67)
